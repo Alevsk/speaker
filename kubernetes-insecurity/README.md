@@ -12,7 +12,7 @@ Why is everybody talking about Kubernetes? Is it good? Is it Secure?
 
 In this talk you will learn about Kubernetes and how it works, then you will explore common attack vectors used against Kubernetes infrastructure (“The threat matrix of Kubernetes”) as well as protections you can put in place to mitigate risk and stop attackers to damage your organization (RBAC, Security Context, Network Policies, Monitoring, Pod Security Policies, OPA, Container hardening, etc.)
 
-## Technical requirments
+## Technical requirements
 
 - basic knowledge of cloud computing
 - basic/intermediate knowledge about Linux and containers.
