@@ -23,4 +23,6 @@ While there’s no minimum required experience to attend, this call will best su
 
 ## Slides
 
+- https://docs.google.com/presentation/d/1nPF9Gbea0y4EYJ_gfVYEEW0BtKCOV6Rb3w11YvA8YSo/edit?usp=sharing
+
 ## Recordings
