@@ -23,6 +23,8 @@ While there’s no minimum required experience to attend, this call will best su
 
 ## Slides
 
-- https://docs.google.com/presentation/d/1nPF9Gbea0y4EYJ_gfVYEEW0BtKCOV6Rb3w11YvA8YSo/edit?usp=sharing
+- [Electromagnetic hacking and Introduction to SDR - Google Slides](https://docs.google.com/presentation/d/1nPF9Gbea0y4EYJ_gfVYEEW0BtKCOV6Rb3w11YvA8YSo/edit?usp=sharing)
 
 ## Recordings
+
+- [Electromagnetic hacking and Introduction to SDR · Lenin Alevski](https://www.youtube.com/watch?v=en41FHo0Sko)
