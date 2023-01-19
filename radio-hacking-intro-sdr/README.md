@@ -8,13 +8,13 @@ In this talk you will learn about about radio hacking and its role in history (e
 
 ## Technical requirements
 
-- Basic knowledge of computers and how to install sofware
+- Basic knowledge of computers and how to install software
 - Basic knowledge of radio and concepts such as frequency, radio waves, radar and the electromagnetic spectrum
 - Basic knowledge of cybersecurity
 
 ## Who should attend
 
-While there’s no minimum required experience to attend, this call will best suited for:
+While there’s no minimum required experience to attend, this talk will best suited for:
 
 - Students
 - Engineering students

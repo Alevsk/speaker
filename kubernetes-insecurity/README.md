@@ -20,7 +20,7 @@ In this talk you will learn about Kubernetes and how it works, then you will exp
 
 ## Who should attend
 
-While there’s no minimum required experience to attend, this call will best suited for:
+While there’s no minimum required experience to attend, this talk will best suited for:
 
 - Software Engineers
 - Security Engineers
