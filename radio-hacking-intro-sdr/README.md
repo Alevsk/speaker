@@ -27,4 +27,5 @@ While there’s no minimum required experience to attend, this talk will best su
 
 ## Recordings
 
-- [Electromagnetic hacking and Introduction to SDR · Lenin Alevski](https://www.youtube.com/watch?v=en41FHo0Sko)
+- [Electromagnetic hacking and Introduction to SDR · Spanish](https://www.youtube.com/watch?v=en41FHo0Sko)
+- [Electromagnetic hacking and Introduction to SDR · English](https://www.youtube.com/watch?v=K3hfg_Gq50A&t=1461s)
