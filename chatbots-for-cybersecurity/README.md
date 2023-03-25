@@ -2,34 +2,17 @@
 
 ## Description
 
-In this presentation, we'll dive into the world of chatbots and
-learn how they can be leveraged for cybersecurity tasks. Specifically,
-we'll explore the use of large language models (LLMs) like ChatGPT
-and examine the advantages and limitations of this cutting-edge
-technology.
+In this presentation, we'll dive into the world of chatbots and learn how they can be leveraged for cybersecurity tasks. Specifically, we'll explore the use of large language models (LLMs) like ChatGPT and examine the advantages and limitations of this technology.
 
-We'll start with an introduction to chatbots and LLMs, including
-how they work and why they are relevant to cybersecurity. From there,
-we'll delve into the practical applications of chatbots for both
-defensive and offensive security.
+We'll start with an introduction to chatbots and LLMs, including how they work and why they are relevant to cybersecurity. From there, we'll delve into the practical applications of chatbots for both defensive and offensive security.
 
-On the defensive side, we'll explore how chatbots can be used to automate
-tasks such as log parsing, web scraping, and data analysis. We'll also
-look at how they can simplify complex security concepts and help educate
-team members at various levels of expertise.
+On the defensive side, we'll explore how chatbots can be used to automate tasks such as log parsing, web scraping, and data analysis. We'll also look at how they can simplify complex security concepts and help educate team members at various levels of expertise.
 
-On the offensive side, we'll examine how chatbots can be used for
-tasks such as social engineering and phishing simulations, as well
-as for automating various attack techniques.
+On the offensive side, we'll examine how chatbots can be used for tasks such as social engineering and phishing simulations, as well as for automating various attack techniques.
 
-Throughout the presentation, we'll share real-world examples of how
-ChatGPT has been used in security engineering tasks, including generating
-python scripts, creating cybersecurity content for social media,
-and even helping with complex projects.
+Throughout the presentation, we'll share real-world examples of how ChatGPT has been used in security engineering tasks, including generating python scripts, creating cybersecurity content for social media, and even helping with complex projects.
 
-By the end of the presentation, you'll have a better understanding
-of the potential of chatbots and LLMs for cybersecurity tasks,
-and how you can integrate these tools into your own workflow.
+By the end of the presentation, you'll have a better understanding of the potential of chatbots and LLMs for cybersecurity tasks, and how you can integrate these tools into your own workflow.
 
 ## Technical requirements
 
