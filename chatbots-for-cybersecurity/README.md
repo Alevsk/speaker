@@ -33,5 +33,8 @@ While there’s no minimum required experience to attend, this talk will best su
 ## Slides
 
 - [Chatbots for Cybersecurity](https://docs.google.com/presentation/d/1fUUcFi-Do2Ycm_GP8loVcqsQ6uNpb3ichGEMTp4QHLs)
+
 ## Recordings
+
+- [03-25-2023 - Chatbots for Cybersecurity](https://youtu.be/y3tDR5-DHP0?si=DxAnx0lAe8vdAXqn&t=274)
 
