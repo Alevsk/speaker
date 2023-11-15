@@ -6,15 +6,15 @@ The Four Tiers of Homelabs is a methodology for learning cybersecurity by settin
 
 ## Description
 
-I always struggle to answer the question “How do I get a job in cybersecurity?” because there is no secret formula to prepare yourself for your first job in security. To acquire the knowledge and hard skills, people often recommend getting entry-level certifications, playing capture the flags, or even going back to school. There is no right or wrong answer, as the journey into cybersecurity is different for everyone. In my case, I prefer a more practical approach: homelabs.
+I struggle with answering the question, "How do I get a job in cybersecurity?" because there's no secret formula for preparing for your first security job. Recommendations often include obtaining entry-level certifications, playing capture the flags, or going back to school. The journey into cybersecurity varies for everyone, and there's no right or wrong answer. In my case, I prefer a practical approach: homelabs.
 
-Looking back at my own career, I put together the pieces that allowed me to build a holistic understanding of cybersecurity. The four tiers of homelabs for learning cybersecurity is a methodology I came up with for introducing beginners to the necessary concepts, skills, and tools they need to learn to be proficient in cybersecurity, from basic topics like being aware of the different Linux distributions to advanced ones like cryptography and cloud security.
+Reflecting on my career, I assembled the pieces that allowed me to build a holistic understanding of cybersecurity. The four tiers of homelabs for learning cybersecurity is a methodology I developed to introduce beginners to the concepts, skills, and tools needed for proficiency in cybersecurity, from basic awareness of different Linux distributions to advanced topics like cryptography and cloud security.
 
-Divided into four steps, I provide practical examples of projects I implemented myself over the years to gain experience and learn the different security tools and platforms companies use in real life, right in my own homelab.
+Divided into four steps, I provide practical examples of projects I implemented to gain experience and learn security tools and platforms used by companies in real-life scenarios, all within my homelab.
 
-In this talk, I will share my unique approach on how I learned security engineering over the years by using homelabs and project-based learning to finally land my dream job as a Security Engineer.
+In this talk, I'll share my unique approach to learning security engineering using homelabs and project-based learning, leading to landing my dream job as a Security Engineer.
 
-Homelabs are a great way to learn cybersecurity because they allow you to practice in a safe environment. You can set up your own network and experiment with different security tools and techniques. This is a great way to learn the basics of cybersecurity and to get hands-on experience.
+Homelabs offer an excellent way to learn cybersecurity, providing a safe environment for practice. You can set up your network and experiment with various security tools and techniques, offering hands-on experience and a solid foundation in the basics of cybersecurity.
 
 The four tiers of homelabs are:
 
