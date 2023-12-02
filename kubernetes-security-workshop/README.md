@@ -38,4 +38,4 @@ While there’s no minimum required experience to attend, this talk will best su
 
 ## Slides
 
-## Recordings
+- [Kubernetes Security: Hands-On Attack and Defense - Google Slides](https://docs.google.com/presentation/d/1algz44C9d2YFCHO3epScPzaEChJqBY2JijIjTtBnt7c)

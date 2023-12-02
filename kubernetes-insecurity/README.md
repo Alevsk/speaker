@@ -1,4 +1,4 @@
-# Kubernetes (IN)security
+# Kubernetes Security: Attacking And Defending Modern Infrastructure
 
 ## Elevator Pitch
 
@@ -31,10 +31,10 @@ While there’s no minimum required experience to attend, this talk will best su
 
 ## Slides
 
-- [Kubernetes (IN)Security - Google Slides](https://docs.google.com/presentation/d/1CnTqHdJM573z6jXWu3s44EUU08L-SVBXFKdInCWTNdU/edit#slide=id.gd24368574f_0_381)
+- [Kubernetes Security: Attacking And Defending Modern Infrastructure - Google Slides](https://docs.google.com/presentation/d/1CnTqHdJM573z6jXWu3s44EUU08L-SVBXFKdInCWTNdU)
 
 ## Recordings
 
-- [kubernetes (IN)security with Alevskey - YouTube](https://youtu.be/zG5yO7L3VMU)
+- [Kubernetes Security: Attacking And Defending Modern Infrastructure - Pacific Hackers Association](https://youtu.be/zG5yO7L3VMU)
 
-- [Kubernetes (IN)Security - Attacking and defending modern infrastructure -OpenInfraDays Mexico 2022 - YouTube](https://www.youtube.com/watch?v=GFIUCTutwKo)
+- [Kubernetes Security: Attacking and defending modern infrastructure - OpenInfraDays Mexico 2022](https://www.youtube.com/watch?v=GFIUCTutwKo)
