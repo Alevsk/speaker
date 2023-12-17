@@ -1,4 +1,4 @@
-# The Four Tiers of Homelabs: My Approach to Learn Cybersecurity
+# The Four Tiers of Homelabs: My Approach to Learning Cybersecurity
 
 ## Elevator Pitch
 
