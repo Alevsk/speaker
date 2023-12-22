@@ -28,4 +28,4 @@ While there’s no minimum required experience to attend, this talk will best su
 
 ## Recordings
 
-- [05-23-2020 Container Security by .@alevsk PHACK 2020 Online - YouTube](https://youtu.be/2-ls1q26w5Q?si=u0CQjUto2veV4n6y&t=751)
+- [05-23-2020 Container Security by .@alevsk PHACK 2020 Onlin - Pacific Hackers Association](https://youtu.be/2-ls1q26w5Q?si=u0CQjUto2veV4n6y&t=751)

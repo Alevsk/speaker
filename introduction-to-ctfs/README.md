@@ -21,8 +21,8 @@ While there’s no minimum required experience to attend, this talk will best su
 
 ## Slides
 
-- [Introduction to security CTFs and where to find them - Google Slides](https://docs.google.com/presentation/d/1M25KapachefRvEje0JUPgcvI7t7nYf2btPyMlD25IA8/edit)
+- [Introduction to security CTFs and where to find them - Google Slides](https://docs.google.com/presentation/d/1M25KapachefRvEje0JUPgcvI7t7nYf2btPyMlD25IA8)
 
 ## Recordings
 
-- [Introduction to security CTFs and where to find them - Youtube](https://www.youtube.com/watch?v=XSGpQReNW-c&t=4043s)
+- [Introduction to security CTFs and where to find them - Cybersec on bits](https://www.youtube.com/watch?v=XSGpQReNW-c&t=4043s)

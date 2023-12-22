@@ -27,6 +27,6 @@ While there’s no minimum required experience to attend, this talk will best su
 
 ## Slides
 
-- [Hacker's Toy Box: A Peek Into Cool Gadgets from Defcon - Google Slides](https://docs.google.com/presentation/d/1YAiJE7XRQgXaBNgri__LNj2Ye0BkoSW7LdxT0AjTWDs/edit)
+- [Hacker's Toy Box: A Peek Into Cool Gadgets from Defcon - Google Slides](https://docs.google.com/presentation/d/1YAiJE7XRQgXaBNgri__LNj2Ye0BkoSW7LdxT0AjTWDs)
 
 ## Recordings

@@ -33,6 +33,7 @@ While there’s no minimum required experience to attend, this talk will best su
 ## Required Materials
 
 - Laptop with at least 8gb of Ram (16gb is recommended)
+- Laptop with at least 40gb of free space (For downloading and running the workshop VM)
 - Internet connection, mostly to pull docker images and the required tools (kind, kubectl, kustomize, etc).
 - Any Linux distribution (ie: Kali or Ubuntu) or Mac OSX operating systems, or a virtual machine running them.
 

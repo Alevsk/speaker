@@ -44,7 +44,3 @@ While there’s no minimum required experience to attend, this talk will best su
 - Cloud Engineers
 - DevOps people
 - Any person that wants to learn more about cybersecurity and security engineering
-
-## Slides
-
-## Recordings

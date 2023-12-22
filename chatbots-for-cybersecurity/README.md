@@ -1,4 +1,4 @@
-# Chatbots for Cybersecurity 
+# Chatbots for Cybersecurity
 
 ## Description
 
@@ -28,7 +28,7 @@ While there’s no minimum required experience to attend, this talk will best su
 - Cloud Engineers
 - DevOps people
 - Incident response / penetration testers / hackers
-- Any person that wants to learn more about Chatbots 
+- Any person that wants to learn more about Chatbots
 
 ## Slides
 
@@ -36,5 +36,5 @@ While there’s no minimum required experience to attend, this talk will best su
 
 ## Recordings
 
-- [03-25-2023 - Chatbots for Cybersecurity](https://youtu.be/y3tDR5-DHP0?si=DxAnx0lAe8vdAXqn&t=274)
+- [03-25-2023 - Chatbots for Cybersecurity - Pacific Hackers Association](https://youtu.be/y3tDR5-DHP0?si=DxAnx0lAe8vdAXqn&t=274)
 
