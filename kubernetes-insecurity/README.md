@@ -2,15 +2,13 @@
 
 ## Elevator Pitch
 
-Kubernetes has become the operating system of the Internet, more and more organizations prefer to run their workloads on the cloud because is “cheaper” but that comes with a cost: cluster miss-configuration, leaked cluster credentials, crypto miners, container escape and vulnerable clusters.
+Kubernetes has become the operating system of the Internet. An increasing number of organizations prefer to run their workloads on the cloud because it's cost-effective option. However, this choice comes with its own set of challenges, including cluster misconfigurations, leaked cluster credentials, crypto miners, container escape vulnerabilities, and vulnerable clusters.
 
 ## Description
 
-Why are more and more companies moving to the Cloud?
+Why are more and more companies moving to the Cloud? Why is everybody talking about Kubernetes? Is it good? Is it Secure?
 
-Why is everybody talking about Kubernetes? Is it good? Is it Secure?
-
-In this talk you will learn about Kubernetes and how it works, then you will explore common attack vectors used against Kubernetes infrastructure (“The threat matrix of Kubernetes”) as well as protections you can put in place to mitigate risk and stop attackers to damage your organization (RBAC, Security Context, Network Policies, Monitoring, Pod Security Policies, OPA, Container hardening, etc.)
+In this talk, I will explain the fundamentals of Containers and Kubernetes security. We will discuss previous security work around Kubernetes, like OWASP Kubernetes Top Ten and Threat Matrix for Kubernetes. Then, I will analyze common attack vectors used against Kubernetes infrastructure, such as exploiting Insecure APIs, Secrets Theft, Container Escape, and Pod Privilege Escalation. We will also explore protections you can implement to mitigate risks and prevent attackers from damaging your organization using RBAC, OPA, Security Contexts, Network Policies, and other built-in security features.
 
 ## Technical requirements
 
