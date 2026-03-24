@@ -4,24 +4,30 @@
 
 ## Headline
 
-Security Software Engineer | Security+ | Professional Cloud Security Engineer
+Security Engineer at Google | #RSAC #DEFCON #BSIDES Speaker | Blogger
 
 ## Bio
 
-Lenin Alevski is a Full Stack Engineer and generalist with a lot of passion for Information Security. Currently working as a Security Engineer at [Google](https://www.google.com/). Before joining Google, Lenin worked at [MinIO](https://min.io/), [OneLogin](https://www.onelogin.com/), [Oracle](https://www.oracle.com/mx/index.html) and [Websec Mexico](https://www.websec.mx/) as an appsec engineer, software engineer, security consultant and penetration tester.
+Lenin Alevski is a Security Engineer at [Google](https://www.google.com/) with over a decade of experience in software and security engineering. He specializes in building and defending distributed systems (Kubernetes), currently focused on AI Security and Autonomous Offensive/Defensive capabilities. Lenin works with global organizations on security assurance, ML Red Teaming, and large-scale vulnerability management.
 
-Lenin has over 15 years of experience in software development and information security, spending the last 5 years working with containers and cloud technology in projects with Seagate, VMWare, IBM, GM Financial, Scotiabank, and more companies in the US and Latin America.
+Before joining Google, Lenin worked at [MinIO](https://min.io/), [OneLogin](https://www.onelogin.com/), [Oracle](https://www.oracle.com/mx/index.html), and [Websec Mexico](https://www.websec.mx/) as an appsec engineer, software engineer, security consultant, and penetration tester — working on projects with Seagate, VMware, IBM, GM Financial, Scotiabank, and other companies across the US and Latin America.
+
+Lenin is passionate about building "security that thinks," using agentic frameworks to automate risk management and protect critical AI infrastructure. He loves to play CTFs, contribute to open-source, and write about security and privacy on his personal blog [https://www.alevsk.com](https://www.alevsk.com).
+
+**Areas of expertise:** AI Security (ML Red Teaming & Adversarial Defense), Agentic Frameworks (Autonomous Security), Vulnerability Management at Scale, Kubernetes Hardening, Cloud-Native Security (GCP/AWS/Azure), Distributed Systems, Go, Python, and Applied Cryptography.
 
 ## Short Bio
 
-Lenin Alevski is a Full Stack Engineer and generalist with a lot of passion for Information Security. Lenin specializes in building and maintaining Distributed Systems, Application Security and Cloud Security in general. Lenin loves to play CTFs, contributing to open-source and writing about security and privacy on his personal blog [https://www.alevsk.com](https://www.alevsk.com).
+Lenin Alevski is a Security Engineer at [Google](https://www.google.com/) with over a decade of experience in software and security engineering. He specializes in AI Security, Kubernetes hardening, and Cloud-Native security, and is passionate about using agentic frameworks to automate risk management. Lenin loves to play CTFs, contribute to open-source, and write about security and privacy on his personal blog [https://www.alevsk.com](https://www.alevsk.com).
 
 ## Social
 
 - [LinkedIn](https://www.linkedin.com/in/alevsk/)
 
-- [@alevsk](https://twitter.com/alevsk)
+- [Blog](https://www.alevsk.com)
 
-- [@alevskey](https://twitter.com/alevskey)
+- [@alevsk on X](https://x.com/alevsk)
+
+- [@alevskey on X](https://x.com/alevskey)
 
 - [Instagram](https://www.instagram.com/alevsk/)
